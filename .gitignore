@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+logs/
+processed_brands.txt
+activate.bat
